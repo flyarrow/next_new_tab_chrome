@@ -1,0 +1,2 @@
+# next_new_tab_chrome
+Chrome插件：自动将新打开的标签页排在当前标签页的后面
